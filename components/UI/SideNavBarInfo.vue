@@ -1,9 +1,9 @@
 <template>
-    <div class="mt-8">
+    <div class="my-12">
         <!-- User info -->
         <img
-            class="h-12 w-12 rounded-full object-cover mx-auto"
-            src="https://appzzang.me/data/editor/1608/f9c387cb6bd7a0b004f975cd92cbe2d9_1471626325_6802.png"
+            class="h-12 w-12 rounded-full object-cover mx-auto "
+            src="/user-icon.svg"
             alt="enoshima profile" />
         <h2
             class="mt-4 text-xl dark:text-gray-300 font-extrabold capitalize">

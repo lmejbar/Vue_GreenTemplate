@@ -3,7 +3,7 @@
         class="flex flex-row justify-between border-b
         dark:border-gray-600 dark:text-gray-400 transition duration-500
         ease-in-out">
-        <div class="flex">
+        <div class="flex w-4/5">
 
             <a
                 href="users-dashboard/"
@@ -31,7 +31,7 @@
             </button>
         </div>
 
-        <div class="flex items-center select-none">
+        <div class="flex items-center select-none w-1/5">
             <span
                 class="hover:text-green-500 dark-hover:text-green-300
                 cursor-pointer mr-3 transition duration-500 ease-in-out">

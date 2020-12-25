@@ -1,5 +1,5 @@
 <template>
-    <nav class="flex flex-col bg-gray-200 dark:bg-gray-900 w-64 px-12 pt-4 pb-6">
+    <nav class="bg-gray-200 dark:bg-gray-900 px-5 pt-2 pb-2 w-2/12 ">
         <SideNavBarHeader/>
         <SideNavBarInfo/>
         <SideNavBarButton/>
@@ -24,3 +24,9 @@ export default {
     }
 }
 </script>
+
+<style >
+    .navbar{
+        display: flex;
+    }
+</style>

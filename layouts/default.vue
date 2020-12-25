@@ -6,7 +6,7 @@
 
       <main
         class="flex-1 flex flex-col bg-gray-100 dark:bg-gray-700 transition
-        duration-500 ease-in-out overflow-y-auto">
+        duration-500 ease-in-out overflow-y-auto w-10/12">
         <div class="mx-2 my-2">
           <MainHeader/>
           <Nuxt />

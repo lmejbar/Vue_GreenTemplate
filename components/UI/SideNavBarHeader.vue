@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-row border-b items-center justify-between pb-2">
+    <div class="flex flex-row border-b items-center justify-between pb-2 my-2">
     
     <span class="text-lg font-semibold capitalize dark:text-gray-300">
         my admin
@@ -26,7 +26,7 @@
         </a>
         <div
             class="absolute w-2 h-2 rounded-full bg-green-500
-            dark-hover:bg-green-300 right-0 mb-5 bottom-0"></div>
+            dark-hover:bg-green-300 right-0 mb-3 bottom-0"></div>
     </span>
 
 </div>

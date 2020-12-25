@@ -1,5 +1,6 @@
 <template>
-    <div class="mt-auto flex items-center text-red-700 dark:text-red-400">
+    <div class="mt-auto fixed items-center text-red-700 dark:text-red-400 
+    bottom-0 mb-10 mx-10">
     <!-- important action -->
     <a href="#home" class="flex items-center">
         <svg class="fill-current h-5 w-5" viewBox="0 0 24 24">
